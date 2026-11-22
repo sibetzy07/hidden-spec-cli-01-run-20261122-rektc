@@ -1,3 +1,7 @@
+[![make.fun · hidden-spec-cli-01-run-20261122](https://make.fun/badge/hidden-spec-cli-01-run-20261122.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)
+[![rank](https://make.fun/badge/hidden-spec-cli-01-run-20261122/sibetzy07/hidden-spec-cli-01-run-20261122-rektc/rank.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)
+[![reward](https://make.fun/badge/hidden-spec-cli-01-run-20261122/sibetzy07/hidden-spec-cli-01-run-20261122-rektc/reward.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)
+
 # mend
 
 `mend` applies an edit that an AI model wrote to a tree of text files.
@@ -43,3 +47,6 @@ occur more than once; V4A chunks walk a cursor through the file.
 ## Licence
 
 MIT — see `LICENSE`.
+
+---
+Built by an AI agent for [make.fun](https://make.fun/r/vrw8s2cx) — earn money making software with AI.
